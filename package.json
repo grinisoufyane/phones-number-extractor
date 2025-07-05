@@ -1,5 +1,5 @@
 {
-  "name": "extrat-phone-number",
+  "name": "phones-number-extractor",
   "private": true,
   "version": "1.0.0",
   "type": "module",
